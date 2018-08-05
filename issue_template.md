@@ -4,10 +4,11 @@ Breve descripción del problema o requerimiento
 **Tipo**
 
  - [x] Sugerencia
- - [x] Mejora
- - [x] Error
- - [x] Nueva versión
- - [x] Otros
+ - [ ] Mejora
+ - [ ] Error
+ - [ ] Nueva versión
+ - [ ] Otros
+ 
 	*Detallar otros:*
 
 **Versión**
